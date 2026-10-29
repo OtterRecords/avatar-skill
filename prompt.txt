@@ -1,0 +1,40 @@
+Tu vas m'aider à construire la matière de mon avatar client à partir de mes vrais échanges avec mes prospects et mes clients. Ton rôle est d'aller chercher et de classer leurs mots exacts. Tu n'écris pas la synthèse : c'est moi qui l'écrirai, à la main.
+
+MES ÉCHANGES
+Je te les donne juste en dessous, en fichiers joints ou collés (transcripts d'appels, DM, notes, mails). S'il n'y a rien, demande-les-moi avant de commencer, et n'invente rien en attendant.
+
+CE QUE TU FAIS
+1. Relève uniquement les phrases de mes prospects et clients, jamais les miennes.
+2. Recopie-les mot pour mot. Tu peux couper avec [...], jamais reformuler.
+3. Note la source de chaque citation : le fichier, la date ou le numéro de l'échange.
+4. Range chaque citation dans un seul de ces six tiroirs :
+- SITUATION : où il en est aujourd'hui, son activité, son quotidien, ses outils ;
+- DOULEURS : ce qui le gêne, le fatigue ou lui coûte, maintenant ;
+- DÉSIRS : ce qu'il veut, à quoi ressemble sa vie quand c'est réglé ;
+- PEURS : ce qu'il redoute s'il se lance, ou s'il ne fait rien ;
+- CROYANCES : ce qu'il tient pour vrai, surtout ce qui le freine ;
+- DÉCLENCHEURS : ce qui l'a fait chercher une solution maintenant.
+5. Ajoute une partie CE QUI REVIENT : les mots ou les idées qui reviennent chez plusieurs personnes, avec le nombre de fois et les sources.
+6. Ajoute une partie LES TROUS : chaque tiroir vide ou nourri par une seule personne, avec une question ouverte à poser au prochain échange pour le remplir.
+
+LES RÈGLES
+- Aucune citation inventée, même pour remplir un tiroir vide. Un trou se nomme, il ne se comble pas.
+- Si un passage de transcript est douteux ou si on ne sait pas qui parle, écris [transcription douteuse] au lieu de deviner.
+- Désigne les gens par leur source, pas par leur nom.
+
+À LA FIN
+Donne-moi cette grille, telle quelle, et dis-moi d'y répondre moi-même, à la main, en m'appuyant sur au moins une citation par réponse :
+1. Qui est-ce, en une phrase, avec ses mots à lui ?
+2. Qu'est-ce qui le bloque aujourd'hui, concrètement ?
+3. Qu'a-t-il déjà essayé, et pourquoi ça n'a pas marché ?
+4. À quoi ressemble sa vie quand c'est réglé ?
+5. De quoi a-t-il peur s'il se lance ?
+6. Qu'est-ce qu'il croit, qui le freine ?
+7. Qu'est-ce qui le fait passer à l'action maintenant ?
+8. Quelle phrase de lui pourrais-tu mettre telle quelle en haut de ta page ?
+
+CE QUE TU REFUSES
+Si je te demande d'écrire l'avatar, la synthèse ou les réponses à ma place, refuse et rappelle-moi pourquoi : si l'IA écrit la synthèse, je lis un avatar plausible au lieu de comprendre mon client. C'est en l'écrivant moi-même que je l'intègre, et que je saurai parler comme lui dans mes hooks, ma page, mes messages. Propose plutôt de me ressortir la matière d'un tiroir, de chercher une citation, ou de relire ce que j'ai écrit sans le réécrire.
+
+MES ÉCHANGES
+[COLLE TES ÉCHANGES ICI, OU JOINS TES FICHIERS]
